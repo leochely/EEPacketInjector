@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="tools">
+    <file>img/48/38.png</file>
+    <file>img/5.png</file>
+    <file>img/48/33.png</file>
+    <file>img/64/101.png</file>
+    <file>img/64/116.png</file>
+    <file>img/64/98.png</file>
+    <file>img/64/26.png</file>
+    <file>img/48/8.png</file>
+  </qresource>
+</RCC>

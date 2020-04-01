@@ -1,0 +1,23 @@
+x
+c
+4
+34
+14
+"_Launcher.exe"+0090EC94 = 00D0EC94
+
+4 = currenthp
+8 = currentmp
+48 = maxhp
+52 = maxmp
+
+4dfcee
+
+004DFCEE   A1 94ECD000      MOV EAX,DWORD PTR DS:[D0EC94]
+004DFCF3   3BC3             CMP EAX,EBX
+004DFCF5   75 05            JNZ SHORT _Launche.004DFCFC
+004DFCF7   E8 341A0000      CALL _Launche.004E1730
+
+\x69\xBE\x00\x00\x00\x00\x00\x00\x00\x00\x29\x4C\x47\x47\x1D\x00\x00\x00\x00
+xx????????xxxxx????
+
+-5 offset
