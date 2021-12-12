@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+winappdbg = {ref = "7b88e2964522d8d15b0f34b54541061fb0ca63df", git = "https://github.com/pho3be/winappdbg"}
+PyQt5 = "==5.15.6"
+PyQt5-Qt5 = "==5.15.2"
+PyQt5-sip = "==12.9.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
